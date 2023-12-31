@@ -1,2 +1,0 @@
-# moratz-financial
-Moratz Financial
