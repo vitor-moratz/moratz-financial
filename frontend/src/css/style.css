@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+}
+
+.container-image {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    justify-content: center;
+}
+
+.container-image img {
+    width: 55%;
+}
+
+.container-login {
+    display: flex;
+    flex: 0.5;
+    flex-direction: column;
+    background-color: #D9D9D9;   
+    height: 100vh;
+}
+
+
