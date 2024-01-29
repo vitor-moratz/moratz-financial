@@ -28,6 +28,11 @@ body {
     flex-direction: column;
     background-color: #D9D9D9;   
     height: 100vh;
+    align-items: center;
 }
 
+.soon img {
+    padding: 210px 10px 100px 150px;
+    width: 75%;
+}
 
